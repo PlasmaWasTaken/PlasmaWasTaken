@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PlasmaWasTaken
+- I do C# and C++, python too
